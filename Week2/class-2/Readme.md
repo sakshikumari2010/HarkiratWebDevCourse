@@ -7,8 +7,8 @@
 
 ## Common JS Engine
 
- V8 used by Google chrome/chromium is a JS Browser Engine, writtten in C
- Similarly SpiderMonkey used by firefox written in C  and Rust
+ - V8 used by Google chrome/chromium is a JS Browser Engine, writtten in C
+ - Similarly SpiderMonkey used by firefox written in C  and Rust
 
  ## Node.js is a runtime
 
