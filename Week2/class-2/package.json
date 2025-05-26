@@ -1,0 +1,14 @@
+{
+  "name": "class-2",
+  "version": "1.0.0",
+  "description": "It is a scripting language specification on which JavaScript is based. It serves as the guideline or the 'rules' for scripting language design.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

@@ -40,4 +40,15 @@ It is written in Zig.
 2. Response Body
 3. Status Code
 
+## Common methods to send on our Backend Server
+1. GET
+2. POST
+3. PUT
+4. DELETE
+
+## Common Status Code Backend Responds with
+- 200 - Everthing is OK.
+- 404 - Page/Route not found
+- 403 - Authentication issues
+- 500 - Internal Server Error
 
